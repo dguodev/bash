@@ -7,3 +7,13 @@ Require wmctrl and only tested under i3WM.
 
 to use:
 Bind to a keyboard shortcut.
+
+## monitor_failback.sh
+Automatically change pre-defined display layout.
+Fail back to internal display when all external display disconnected.
+
+require xrandr
+
+to use:
+create a crontab or systemd service with the script.
+
