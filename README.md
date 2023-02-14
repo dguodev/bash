@@ -17,3 +17,6 @@ require xrandr
 to use:
 create a crontab or systemd service with the script.
 
+## Others that i think awesome
+https://github.com/zsh-users/zsh-autosuggestions
+https://github.com/wting/autojump
